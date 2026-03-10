@@ -6,4 +6,5 @@ int main(){
     avg=(a+b+c)/3;
     cout<<avg;
     return 0;
+    
 }
